@@ -1,7 +1,5 @@
-# Real Champions Sport Academy System (RCSAS)
-
 ## Overview
-**Real Champions Sport Academy** is a rapidly growing sports center in Malaysia that employs numerous coaches to conduct classes across various sports such as Swimming, Badminton, Football, Archery, Gymnastics, Volleyball, Basketball, Cricket, Tennis, and Table Tennis. To streamline operations and improve record management, a computerized system is required to handle information about coaches, sports, schedules, and student registrations.
+A computerized system is required to handle information about coaches, sports, schedules, and student registrations for a Sports Academy System.
 
 ## Objectives
 - Developed a software solution using object-oriented principles.
